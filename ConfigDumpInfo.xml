@@ -8,7 +8,7 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура" id="8721194a-8707-4269-8f68-cad4cf298ede" configVersion="5cb4b6cbe020394d918c9bf7dce82a1400000000"/>
 		<Metadata name="Catalog.Склад" id="62d7cbaa-494e-435a-8ea6-44c72a596620" configVersion="003a5a5d6fc8644aa6096ed2e3faf53900000000"/>
-		<Metadata name="Configuration.Конфигурация" id="5463739d-85e0-4076-9684-448b8e378812" configVersion="489a56c7aba4e942893b4059888b183700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="5463739d-85e0-4076-9684-448b8e378812" configVersion="fa5aa24869d9bf489bf828bdd8d43acf00000000"/>
 		<Metadata name="Document.ПоступлениеТовара" id="4eba0e4a-9d40-4d42-a14f-11d3f58175a0" configVersion="6b3778a7bcafc04ca7e818d2335f2c6900000000">
 			<Metadata name="Document.ПоступлениеТовара.Attribute.Склад" id="07fcfeb0-5399-471a-b824-d7199e907001"/>
 			<Metadata name="Document.ПоступлениеТовара.TabularSection.Товары.Attribute.Номенклатура" id="2dc790a5-ed97-4cec-a11b-bbf666de09a2"/>
@@ -24,6 +24,9 @@
 		</Metadata>
 		<Metadata name="Document.РасходТовара.ObjectModule" id="68696298-7cac-4bbe-8d8f-985cca2454b2.0" configVersion="41b2d4f672b6464493945b4e50631da500000000"/>
 		<Metadata name="Language.Русский" id="eca0355b-cafd-44a8-b0a4-1b0da227acda" configVersion="2d73243202d3ce449e9cb2a6263dc8fe00000000"/>
-		<Metadata name="Subsystem.Склад" id="62d3539f-cf6f-4367-aaff-490a992894fc" configVersion="5b7c32920f16cf4e95e39144e0d2d5e100000000"/>
+		<Metadata name="Report.ОстаткиНаСкладах" id="4aa19a64-91be-4da6-9c21-d8e51393386b" configVersion="5bc98ab3fe42be4caa1ac4a83213072c00000000"/>
+		<Metadata name="Report.ОстаткиНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="31165cbc-5df7-40c6-91bd-21d3c1742d09" configVersion="767bb18f94d4ce48be6955b50f363f4900000000"/>
+		<Metadata name="Report.ОстаткиНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="31165cbc-5df7-40c6-91bd-21d3c1742d09.0" configVersion="2fecf3eefffdce48b325295b56c1ba1b00000000"/>
+		<Metadata name="Subsystem.Склад" id="62d3539f-cf6f-4367-aaff-490a992894fc" configVersion="86625e4717bb644d961d6a958b53503400000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
